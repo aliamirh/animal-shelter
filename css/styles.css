@@ -1,0 +1,19 @@
+.column {
+  float: left;
+  width: 30%;
+  margin: 10px;
+}
+
+.column h2 {
+  font-family: sans-serif;
+}
+
+.dog {
+  height: 70%;
+  width: 70%;
+}
+
+.rabbit {
+  height: 90%;
+  width: 90%;
+}
